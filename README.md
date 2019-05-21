@@ -5,7 +5,7 @@
 iMac with Intel i7 Kaby Lake with 32 GB RAM, 1TB fusion HD, running 10.13 High Sierra
 
 ## Steps taken:
-* Installed homebrew, then attempted *brew install pegasus htcondor* [as described]()
+* Installed homebrew, then attempted *brew install pegasus htcondor* [as described](https://pegasus.isi.edu/downloads/)
   * This step was ~unsuccessful after multiple attempts~ ultimately successful
   * The install will appear to hang at several steps, and will take a long time.
   
@@ -16,7 +16,7 @@ iMac with Intel i7 Kaby Lake with 32 GB RAM, 1TB fusion HD, running 10.13 High S
           🍺  /usr/local/Cellar/pegasus/4.9.1: 2,884 files, 83.8MB, built in 18 minutes 58 seconds
   
   * You should install HTCondor **first** to prevent numerous errors in the install process.
-* Downloaded and installed [compiled binaries for Mac OSX]()
+* Downloaded and installed [compiled binaries for Mac OSX](https://pegasus.isi.edu/downloads/)
   * This step was successful
   
         jrcaskey$ cd pegasus-4.9.1/
