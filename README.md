@@ -4,7 +4,7 @@
 ## Hardware and Software
 iMac with Intel i7 Kaby Lake with 32 GB RAM, 1TB fusion HD, running 10.13 High Sierra
 
-## Steps taken:
+## Steps taken
 * Installed homebrew, then attempted *brew install pegasus htcondor* [as described](https://pegasus.isi.edu/downloads/)
   * This step was ~unsuccessful after multiple attempts~ ultimately successful
   * The install will appear to hang at several steps, and will take a long time.
