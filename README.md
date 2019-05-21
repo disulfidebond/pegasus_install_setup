@@ -38,3 +38,5 @@ iMac with Intel i7 Kaby Lake with 32 GB RAM, 1TB fusion HD, running 10.13 High S
         4.9.1
         jrcaskey$ pegasus-status 
         (no matching jobs found in Condor Q)
+
+* Successfully repeated the steps to download the binary for Centos7 on the CHTC submit node
